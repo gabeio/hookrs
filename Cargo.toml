@@ -1,0 +1,6 @@
+[package]
+name = "hookrs"
+version = "0.1.0"
+authors = ["Gabriel <gabriel@coldoc.co>"]
+
+[dependencies]
